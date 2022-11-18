@@ -1,0 +1,16 @@
+body{
+    background: url('/foto/DermoPetraOnstayer.jpg');
+    background-size: cover;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.text-central{
+    text-align: center;
+}
+.calka{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
